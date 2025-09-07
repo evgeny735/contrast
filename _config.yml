@@ -23,10 +23,11 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "Home.md", sidebaricon: home}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
   - {title: VK, url: "https://vk.com/jenit777"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: "Мои заметки", url: "https://vk.com/club215896332"}
+  # - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
+  # - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
