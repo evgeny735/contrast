@@ -4,4 +4,4 @@ permalink: "/О себе.../"
 layout: page
 ---
 
-![](/assets/img/20241204-2.jpg)
+![](/assets/img/20241204-2_1.jpg)
