@@ -4,4 +4,5 @@ permalink: "/О себе.../"
 layout: page
 ---
 
-![30%](/assets/img/20241204-2.jpg)
+# ![](/assets/img/20241204-2.jpg)
+<img src = "/assets/img/20241204-2.jpg" width = "612" height = "816" alt = "" align = center />
