@@ -1,6 +1,6 @@
 ---
 title: "О себе..."
-permalink: "/about/"
+permalink: "/О себе.../"
 layout: page
 ---
 

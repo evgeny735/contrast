@@ -1,6 +1,6 @@
 ---
 title: "Начало"
-permalink: "/home/"
+permalink: "/О чем.../"
 layout: page
 ---
 
