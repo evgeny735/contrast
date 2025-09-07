@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://evgeny735.github.io/contrast/sitemap.xml
+
+
+
+
+
