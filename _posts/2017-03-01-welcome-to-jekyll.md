@@ -1,6 +1,12 @@
 ---
-title: "Welcome to Jekyll"
+title: "Welcome"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<style>
+p {
+  text-align: center
+}
+</style>
+<p>Здесь пока еще ничего нет,но со временем уверен будет наполнятся.</p> 
+<p>Что и о чем есть чем поделиться.</p>
