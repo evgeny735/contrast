@@ -1,5 +1,5 @@
 ---
-title: "Начало"
+title: 
 permalink: "/О чем.../"
 layout: page
 ---
