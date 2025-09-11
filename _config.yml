@@ -18,7 +18,7 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: "RR"}
+  - {title: "/RR"}
   - {file: "index.html"}
   - {file: "Home.md"}
   - {file: "archive.html"}
