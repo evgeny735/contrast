@@ -1,5 +1,5 @@
 ---
-title: "Главная"
+title: "Начальная"
 permalink: "/О чем.../"
 layout: page
 ---
