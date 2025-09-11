@@ -1,7 +1,7 @@
 title: "EvgenyShulyak"
 author: "EvgenyShulyak"
 description: "EvgenyShulyak"
-permalink: /:title/
+permalink: /:description/
 lang: "ru"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
