@@ -22,7 +22,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "Home.md"}
   - {file: "archive.html"}
   - {file: "README.md"}
-  
+  - {file: "tags.html"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: VK, url: "https://vk.com/jenit777"}
