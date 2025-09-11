@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 layout: post
-tags: [welcom, post]
+tags: 
 ---
 
 <style>
