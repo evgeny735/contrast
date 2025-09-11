@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 layout: post
-tags: 
+tags: [jekyll,tags]
 ---
 
 <style>
