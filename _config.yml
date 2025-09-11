@@ -19,6 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {title: "RR", url: "./RR"}
+      - {file: "archive.html"}
   - {file: "index.html"}
   - {file: "Home.md"}
   - {file: "archive.html"}
