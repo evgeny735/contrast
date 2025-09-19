@@ -65,11 +65,11 @@ Esc --> a --> a
 
 Handbook FreeBSD:
 
-https://docs.freebsd.org/ru/books/handbook/
+[Handbook](https://docs.freebsd.org/ru/books/handbook/)
 
 Поиск портов(программ) FreeBSD:
 
-https://ports.freebsd.org/cgi/ports.cgi?query=&stype=all&sektion=all
+[Search_ports](https://ports.freebsd.org/cgi/ports.cgi?query=&stype=all&sektion=all)
 
 
 
