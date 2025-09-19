@@ -28,7 +28,7 @@ external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: VK, url: "https://vk.com/jenit777"}
   - {title: "Мои заметки", url: "https://vk.com/club215896332"}
   - {title: Github, url: "https://github.com/evgeny735/"}
-  - {file: "archive.html"}
+  # - {file: "archive.html"}
   # - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
