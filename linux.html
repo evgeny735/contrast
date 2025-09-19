@@ -5,13 +5,12 @@ title: Linux
 
 
     {% for post in site.categories.Linux %}
-
-    <article class="post_card post">
-      <header class="post_header">
-        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
-        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
-      </header>
-
-      <hr/>
-    </article>
+      <article>
+          <header>
+            <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+            <time datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: date_format }}</time>
+            <!--<time>{{ post.date | date: "%d %B %Y, %A" }}</time>!-->
+          </header>
+        <hr/>
+      </article>
     {% endfor %}
