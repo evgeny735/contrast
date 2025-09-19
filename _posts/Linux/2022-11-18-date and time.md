@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title:  date and time
 layout: Linux
 category: Linux
