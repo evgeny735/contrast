@@ -4,9 +4,9 @@ title: "Linux"
 ---
 
 {% if site.show_excerpts %}
-  {% for post in site.linux %}
+  {% for post in site.posts %}
     <article>
-      {% include meta.html post=post %}
+      {% include meta1.html post=post %}
       {{ post.excerpt }}
       <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
     </article>
