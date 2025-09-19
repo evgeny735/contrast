@@ -21,7 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "Home.md"}
   - {file: "archive.html"}
-  # - {title: "Linux"}
+  # - {title: "Linux", url: "linux.html"}
   - {file: "README.md"}
   
 external:                       # accepts {file, title, url, icon, sidebaricon}
