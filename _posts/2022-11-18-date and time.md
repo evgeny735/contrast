@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  date and time
+title:  Date and Time
 category: Linux
 ---
 
-## Основное:
+### Основное:
 
 - %a - день недели, сокращенное название;
 
