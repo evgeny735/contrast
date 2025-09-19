@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Advanced"
 mathjax: true
 layout: post
 categories: Linux
