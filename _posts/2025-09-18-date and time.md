@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Date and Time
-category: Linux
+category: Unix
 ---
 
 ### Основное:
