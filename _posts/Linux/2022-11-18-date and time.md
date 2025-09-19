@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  date and time
+layout: Linux
 category: Linux
 ---
 
