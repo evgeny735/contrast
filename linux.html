@@ -6,7 +6,7 @@ title: "Linux"
 
     {% for post in site.categories.Linux %}
       <main>
-          <header>
+          
             <header><h1>{{ include.title | default: page.title }}</h1></header>
             <!--<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>!-->
           <nav class="smooth">
@@ -14,7 +14,7 @@ title: "Linux"
             <div><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
           </nav>   
             <!--<time>{{ post.date | date: "%d %B %Y, %A" }}</time>!-->
-          </header>
+          
         <!--<hr/>!-->
       </main>
     {% endfor %}
