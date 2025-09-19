@@ -1,6 +1,7 @@
 ---
 title:  "Установка plasma6-plasma, xfce in FreeBSD"
-layout: Unix
+layout: post
+category: Unix
 ---
 
 #### Думаю сама установка FreeBSD больших трудностей не вызовет!
