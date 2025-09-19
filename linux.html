@@ -12,6 +12,5 @@ title: "Linux"
     </article>
   {% endfor %}
 {% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
+
 {% endif %}
