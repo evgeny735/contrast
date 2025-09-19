@@ -1,9 +1,7 @@
 ---
-layout: post
+layout: Linux
 mathjax: true
 title:  date and time
-layout: Linux
-category: Linux
 ---
 
 ## Основное:
