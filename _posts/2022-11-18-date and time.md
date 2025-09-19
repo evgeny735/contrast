@@ -1,6 +1,7 @@
 ---
 title:  date and time
 layout: post
+category: Linux
 ---
 
 ## Основное:
