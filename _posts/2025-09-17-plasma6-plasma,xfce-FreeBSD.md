@@ -71,6 +71,10 @@ Handbook FreeBSD:
 
 [Handbook](https://docs.freebsd.org/ru/books/handbook/)
 
+Но лучше пользоваться английской версией:
+
+[FreeBSD Handbook | FreeBSD Documentation Portal](https://docs.freebsd.org/en/books/handbook/))
+
 Поиск портов(программ) FreeBSD:
 
 [Search_ports](https://ports.freebsd.org/cgi/ports.cgi?query=&stype=all&sektion=all)
