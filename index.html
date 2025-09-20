@@ -7,7 +7,7 @@ title: "Посты"
   {% for post in site.posts %}
     <article>
       {% include meta.html post=post %}
-      <hr>
+      <hr/>
       {{ post.excerpt }}
       <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
     </article>
