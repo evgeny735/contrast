@@ -11,7 +11,11 @@ category: Unix
 Здесь я делал установку со своей intel !!!
 Здесь установка на "реальное железо" !!!
 Смотреть: https://docs.freebsd.org/en/books/handbook/x11/
-(установка XFCE без менеджера входа-DE)
+(установка XFCE без менеджера входа-DE
+Если нужен менеджера входа в xfce то:
+pkg ins -y lightdm lightdm-gtk-greeter
+sysrc lightdm_enable="YES")
+
 login: root
 passwd: *******
 pkg
