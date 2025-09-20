@@ -44,5 +44,5 @@ plugins:
 
 exclude: [vendor] 
 
-paginate: 5
+paginate: 
 
