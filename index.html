@@ -8,6 +8,7 @@ title: "Посты"
     <article>
       {% include meta.html post=post %}
       {{ post.excerpt }}
+      <hr>
       <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer>
     </article>
   {% endfor %}
