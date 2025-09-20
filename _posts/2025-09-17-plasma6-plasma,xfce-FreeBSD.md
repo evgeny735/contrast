@@ -15,7 +15,6 @@ category: Unix
 Если нужен менеджера входа в xfce то:
 pkg ins -y lightdm lightdm-gtk-greeter
 sysrc lightdm_enable="YES")
-
 login: root
 passwd: *******
 pkg
