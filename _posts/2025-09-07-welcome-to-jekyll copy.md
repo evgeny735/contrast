@@ -1,6 +1,7 @@
 ---
 title: "Welcome"
-layout: Город
+layout: post
+category: Город
 ---
 
 <style>
