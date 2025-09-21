@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Русификация Slackware"
+category: unix
+---
+
 #### Русификация Slackware
 
 >*KDE5 Plasma можно русифицировать в настройках(графический интерфейс)*

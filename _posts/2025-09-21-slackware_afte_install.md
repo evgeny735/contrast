@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Slackware - настройка сразу после установки"
+category: unix
+---
 
 #### Slackware - настройка сразу после установки
 
