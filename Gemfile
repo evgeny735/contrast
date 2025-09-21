@@ -9,3 +9,4 @@ group :jekyll_plugins do
   gem "jekyll-redirect-from", "~> 0.16"
   gem "jekyll-sitemap", "~> 1.4"
 end
+gem "jekyll-paginate"
