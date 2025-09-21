@@ -44,6 +44,5 @@ plugins:
 
 exclude: [vendor] 
 
-gem: [jekyll-paginate]
-paginate: 5
+
 
