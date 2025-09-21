@@ -9,11 +9,12 @@ p {
 }
 </style>
 
+<h2>Петропавловск-Камчатский</h2>
+
 <main>
   <header><h1>{{ include.title | default: page.title }}</h1></header>
   <nav class="smooth">
-    <!--{% for post in site.categories.Город %}!--> 
-    <p>Петропавловск-Камчатский</p> 
+    {% for post in site.categories.Город %}
     <div>
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </div>
