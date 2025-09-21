@@ -1,9 +1,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-
      <loc>https://evgeny735.github.io/contrast/</loc>
-
+</url>
+<url>
+     <loc>https://evgeny735.github.io/contrast/unix/</loc>
+</url>
+<url>
+     <loc>https://evgeny735.github.io/contrast/%D0%9E%20%D1%81%D0%B5%D0%B1%D0%B5/</loc>
+</url>
+<url>
+     <loc>https://evgeny735.github.io/contrast/city/</loc>
 </url>
  
 </urlset>
