@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Необходимые программы в FreeBSD"
-category: Unix
+category: unix
 ---
 
 В Linux есть очень полезный инструмент, которого нет во FreeBSD. 

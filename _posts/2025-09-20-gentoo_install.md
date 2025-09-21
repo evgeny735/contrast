@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Установка Gentoo"
-category: Unix
+category: unix
 ---
 
 #### **Устанавливал с помощью Live CD/DVD Linux Mint 22.1**
