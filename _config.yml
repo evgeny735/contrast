@@ -8,10 +8,10 @@ date_format: "%B %d, %Y"
 
 # Layout
 
-show_excerpts: false            # show article excerpts instead of archive list on the home page
-show_frame: false              # display a grey frame on large screens
-show_sidebar: true            # show a sidebar instead of the usual header
-show_minimal: false             # remove all clutter
+show_excerpts: false            # show article excerpts instead of archive list on the home page-показывать выдержки из статей вместо списка на главной странице
+show_frame: false              # display a grey frame on large screens-отображение серой рамки на больших экранах
+show_sidebar: true            # show a sidebar instead of the usual header-показывать боковую панель вместо заголовка вверху
+show_minimal: false             # remove all clutter-убрать лишнее
 
 #show_frame: "/assets/images/background.svg"
 
