@@ -1,0 +1,14 @@
+---
+title: "Welcome_Welcome"
+layout: post
+category: other
+---
+
+<style>
+p {
+  text-align: center
+}
+</style>
+<p>Здесь пока еще ничего нет,но со временем уверен будет наполнятся.</p> 
+
+
